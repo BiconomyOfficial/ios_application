@@ -11,31 +11,31 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ipa的下载地址</string>
+                    <string>https://biconomyid.oss-ap-northeast-1.aliyuncs.com/Biconomy-1.0.8-signed.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>57*57尺寸的icon下载地址</string>
+                    <string></string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>512*512尺寸的icon下载地址</string>
+                    <string></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>内测app的bundleidentifier</string>
+                <string>com.biconomy.Innovation</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0.8</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>Biconomy</string>
             </dict>
         </dict>
     </array>
